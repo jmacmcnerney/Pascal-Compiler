@@ -1,0 +1,12 @@
+12.1234
+myVariable
+15
+'test test'
+myProgram
+33
+12.1234
+myVariable
+15
+'test tets'
+24
+myProgram
